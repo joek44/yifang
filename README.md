@@ -14,4 +14,10 @@ https://yifang.men
 ```
 https://yifangaff.win/auth/register?code=2GsO
 ```
+# 联系方式(https://t.me/yifangvpn/)
+```
+https://t.me/yifangvpn
+```
 # 节点演示
+![Image text](https://github.com/joek44/yifang/blob/main/img-folder/20231201132328.png)
+![Image text](https://github.com/joek44/yifang/blob/main/img-folder/20231201132415.png)
