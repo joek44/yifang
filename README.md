@@ -6,16 +6,13 @@
 # 注册链接
 
 [官网引导页](https://yifang.men/)
-
 ```
 https://yifang.men
-
-```<br>
+```
 [注册链接](https://yifangaff.win/auth/register?code=2GsO/)
 
 ```
 https://yifangaff.win/auth/register?code=2GsO
-
 ```
 
 # 一键安装
