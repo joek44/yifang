@@ -1,15 +1,12 @@
-# XRayR
-A Xray backend framework that can easily support many panels.
+# 永久免费VPN 加速器
+支持各大流媒体平台，支持chatgpt，tiktok
+支持市面上各大客户端，安全，稳定
+采用高级加密隧道，隐私更安全
 
-一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
+# 注册链接
 
-Find the source code here: [tqqvpn/XrayR](https://github.com/tqqvpn/XrayR)
-
-如对脚本不放心，可使用此沙箱先测一遍再使用：https://killercoda.com/playgrounds/scenario/ubuntu
-
-# 详细使用教程
-
-[教程](https://crackair.gitbook.io/xrayr-project/)
+[官网引导页](https://yifang.men/)
+[注册链接](https://yifangaff.win/auth/register?code=2GsO/)
 
 # 一键安装
 
